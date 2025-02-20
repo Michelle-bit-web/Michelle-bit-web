@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Michelle-bit-web
 - 👀 I’m interested in sports, gaming, investment, (digital-) drawing, music...(long list (; )
-- 🌱 I’m currently learning: Frontend Development
+- 🌱 I’m a biochemist & currently learning: Frontend Development
       - HTML / CSS / Boostrap
       - JavaScript / Figma / Material Design
       - TypeScript / Angular / Firebase
