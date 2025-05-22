@@ -1,6 +1,6 @@
 #### 🎮 My Game Changer - Pepe El Peligroso:
 <p>
-<img src="pepe-bg.gif" width="350" height="150" alt="Animated Banner">
+<img src="pepe-bg-phone.gif" width="350" height="150" alt="Animated Banner">
 </p>
 
 ## 💫 About Me:
