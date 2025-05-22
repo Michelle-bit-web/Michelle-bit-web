@@ -1,3 +1,8 @@
+#### 🎮 My Game Changer - Pepe El Peligroso:
+<p>
+<img src="pepe-bg.gif" width="350" height="150" alt="Animated Banner">
+</p>
+
 # 💫 About Me:
 Welcome! 🙌<br><br>🩷 Front-end Dev  Trainee<br>🧪 Background in Biochemistry<br>📌 Currently learning Angular & TypeScript<br>🔎 I have a keen eye for details<br>💡 Funfact: Three seconds and I’m asleep.
 
