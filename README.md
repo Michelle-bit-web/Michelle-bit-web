@@ -32,7 +32,7 @@ Welcome! 🙌<br><br>🩷 Front-end Dev  Trainee<br>🧪 Background in Biochemis
 <img src="icons/angular.png" width="60" height="60" alt="Angular"> <img src="icons/bootstrap.png" width="60" height="60" alt="Bootstrap"> <img src="icons/css.png" width="60" height="60" alt="CSS3"> <img src="icons/git.png" width="60" height="60" alt="Git"> <img src="icons/github.png" width="60" height="60" alt="GitHub"><img src="icons/html.png" width="60" height="60" alt="HTML5"> <img src="icons/javascript.png" width="60" height="60" alt="JavaScript">n<img src="icons/node_js.png" width="60" height="60" alt="NodeJS"> <img src="icons/npm.png" width="60" height="60" alt="NPM"> <img src="icons/sass.png" width="60" height="60" alt="SASS"> <img src="icons/typescript.png" width="60" height="60" alt="TypeScript"> <img src="icons/visual_studio_code.png" width="60" height="60" alt="VS Code"> <img src="icons/webstorm.png" width="60" height="60" alt="WebStorm">
 
 <br>
-#### Creative Design Tools
+Creative Design Tools <br>
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![GIMP](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
