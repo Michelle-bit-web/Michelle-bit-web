@@ -48,7 +48,7 @@ Welcome! 🙌<br><br>🩷 Front-end Dev  Trainee<br>🧪 Background in Biochemis
 ![GIMP](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-<div style="display: flex; align-items: center; justify-content: center; background: red; width: 90; height: 28; font-size: 12px; font-weight: bold; margin-left: 4; margin-right: 4;"> PROCREATE </div>
+<div style="display: flex; align-items: center; justify-content: center; background: red; width: 95px; height: 28px; font-size: 12px; font-weight: bold; margin-left: 4px; margin-right: 4px;"> PROCREATE </div>
 </div>
 
 
