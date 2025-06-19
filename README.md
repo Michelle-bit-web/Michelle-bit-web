@@ -38,7 +38,6 @@ Welcome! 🙌<br><br>🩷 Front-end Dev  Trainee<br>🧪 Background in Biochemis
 
 <img src="icons/angular.png" width="60" height="60" alt="Angular"> <img src="icons/typescript.png" width="60" height="60" alt="TypeScript"> <img src="icons/sass.png" width="60" height="60" alt="SASS"> <img src="icons/firebase.png" width="60" height="60" alt="Firebase"> <img src="icons/html.png" width="60" height="60" alt="HTML5"> <img src="icons/css.png" width="60" height="60" alt="CSS3"> <img src="icons/javascript.png" width="60" height="60" alt="JavaScript"> <img src="icons/git.png" width="60" height="60" alt="Git"> <img src="icons/github.png" width="60" height="60" alt="GitHub">  <img src="icons/npm.png" width="60" height="60" alt="NPM">   <img src="icons/vscode.png" width="60" height="60" alt="VS Code"> <img src="icons/webstorm.png" width="60" height="60" alt="WebStorm"> <img src="icons/bootstrap.png" width="60" height="60" alt="Bootstrap"> <img src="icons/material-design.png" width="60" height="60" alt="Material Design"> 
 
-
 ### Creative Design Tools:
 
 <br>
