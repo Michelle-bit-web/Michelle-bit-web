@@ -36,21 +36,19 @@ Welcome! 🙌<br><br>🩷 Front-end Dev  Trainee<br>🧪 Background in Biochemis
 
 ## Tech Stack:
 
-<img src="icons/angular.png" width="60" height="60" alt="Angular"> <img src="icons/bootstrap.png" width="60" height="60" alt="Bootstrap"> <img src="icons/css.png" width="60" height="60" alt="CSS3"> <img src="icons/git.png" width="60" height="60" alt="Git"> <img src="icons/github.png" width="60" height="60" alt="GitHub"><img src="icons/html.png" width="60" height="60" alt="HTML5"> <img src="icons/javascript.png" width="60" height="60" alt="JavaScript">n<img src="icons/node_js.png" width="60" height="60" alt="NodeJS"> <img src="icons/npm.png" width="60" height="60" alt="NPM"> <img src="icons/sass.png" width="60" height="60" alt="SASS"> <img src="icons/typescript.png" width="60" height="60" alt="TypeScript"> <img src="icons/visual_studio_code.png" width="60" height="60" alt="VS Code"> <img src="icons/webstorm.png" width="60" height="60" alt="WebStorm">
+<img src="icons/angular.png" width="60" height="60" alt="Angular"> <img src="icons/typescript.png" width="60" height="60" alt="TypeScript"> <img src="icons/sass.png" width="60" height="60" alt="SASS"> <img src="icons/firebase.png" width="60" height="60" alt="Firebase"> <img src="icons/html.png" width="60" height="60" alt="HTML5"> <img src="icons/css.png" width="60" height="60" alt="CSS3"> <img src="icons/javascript.png" width="60" height="60" alt="JavaScript"> <img src="icons/git.png" width="60" height="60" alt="Git"> <img src="icons/github.png" width="60" height="60" alt="GitHub">  <img src="icons/npm.png" width="60" height="60" alt="NPM">   <img src="icons/vscode.png" width="60" height="60" alt="VS Code"> <img src="icons/webstorm.png" width="60" height="60" alt="WebStorm"> <img src="icons/bootstrap.png" width="60" height="60" alt="Bootstrap"> <img src="icons/material-design.png" width="60" height="60" alt="Material Design"> 
 
 
 ### Creative Design Tools:
 
 <br>
-<div style="display: flex;">
-
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-![GIMP](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-
-<div style="display: flex; align-items: center; justify-content: center; background: red; width: 95px; height: 28px; font-size: 12px; font-weight: bold; margin-left: 4px; margin-right: 4px;"> PROCREATE </div>
+<div>
+<img src="icons/procreate.png" width="60" height="60" alt="Procreate"> 
+<img src="icons/photoshop.png" width="60" height="60" alt="Photoshop"> 
+<img src="icons/gimp.png" width="60" height="60" alt="Gimp"> 
+<img src="icons/figma.png" width="60" height="60" alt="Figma"> 
 </div>
-
+<br>
 
 ![](https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif?cid=ecf05e47o0futxlt3d1zckckxvue1jpmnywyostawztvuinb&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
