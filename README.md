@@ -34,9 +34,13 @@ Welcome! 🙌<br><br>🩷 Front-end Developer<br>🧪 Background in Biochemistry
 
  ![snake gif](https://github.com/Michelle-bit-web/Michelle-bit-web/blob/output/github-snake-dark.svg)
 
+## Currently Learning:
+
+<img src="icons/Django.png" width="60" height="60" alt="Django"> <img src="icons/Python.png" width="60" height="60" alt="Python"> <img src="icons/react.png" width="60" height="60" alt="React"> <img src="icons/Vue.Js.png" width="60" height="60" alt="Vue.Js">
+
 ## Tech Stack:
 
-<img src="icons/angular.png" width="60" height="60" alt="Angular"> <img src="icons/typescript.png" width="60" height="60" alt="TypeScript"> <img src="icons/sass.png" width="60" height="60" alt="SASS"> <img src="icons/firebase.png" width="60" height="60" alt="Firebase"> <img src="icons/html.png" width="60" height="60" alt="HTML5"> <img src="icons/css.png" width="60" height="60" alt="CSS3"> <img src="icons/javascript.png" width="60" height="60" alt="JavaScript"> <img src="icons/git.png" width="60" height="60" alt="Git"> <img src="icons/github.png" width="60" height="60" alt="GitHub">  <img src="icons/npm.png" width="60" height="60" alt="NPM">   <img src="icons/vscode.png" width="60" height="60" alt="VS Code"> <img src="icons/webstorm.png" width="60" height="60" alt="WebStorm"> <img src="icons/bootstrap.png" width="60" height="60" alt="Bootstrap"> <img src="icons/material-design.png" width="60" height="60" alt="Material Design"> 
+<img src="icons/angular.png" width="60" height="60" alt="Angular"> <img src="icons/typescript.png" width="60" height="60" alt="TypeScript"> <img src="icons/sass.png" width="60" height="60" alt="SASS"> <img src="icons/firebase.png" width="60" height="60" alt="Firebase"> <img src="icons/Rest-Api.png" width="60" height="60" alt="API"> <img src="icons/html.png" width="60" height="60" alt="HTML5"> <img src="icons/css.png" width="60" height="60" alt="CSS3"> <img src="icons/javascript.png" width="60" height="60" alt="JavaScript"> <img src="icons/git.png" width="60" height="60" alt="Git"> <img src="icons/github.png" width="60" height="60" alt="GitHub"> <img src="icons/Scrum.png" width="60" height="60" alt="Scrum"> <img src="icons/npm.png" width="60" height="60" alt="NPM">   <img src="icons/vscode.png" width="60" height="60" alt="VS Code"> <img src="icons/webstorm.png" width="60" height="60" alt="WebStorm"> <img src="icons/bootstrap.png" width="60" height="60" alt="Bootstrap"> <img src="icons/material-design.png" width="60" height="60" alt="Material Design"> 
 
 ### Creative Design Tools:
 
