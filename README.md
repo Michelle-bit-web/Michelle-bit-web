@@ -7,7 +7,7 @@
 
 <div style="padding: 5;">
 
-Welcome! 🙌<br><br>🩷 Front-end Developer<br>🧪 Background in Biochemistry<br>📌 Currently learning Django<br>🔎 I have a keen eye for details<br>💡 Funfact: Three seconds and I’m asleep.
+Welcome! 🙌<br><br>🧠 Data & AI Engineer<br>🩷 Front-end Developer<br>🧪 Background in Biochemistry<br>📌 Currently learning Django<br>🔎 I have a keen eye for details<br>💡 Funfact: Three seconds and I’m asleep.
 
 </div>
 
