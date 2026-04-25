@@ -47,82 +47,37 @@ Welcome! 🙌<br><br>
 
 ## 🚀 Currently Learning:
 
-<img src="icons/stacks/azure.png" width="60" height="60" alt="Azure">
-<img src="icons/stacks/msfoundry.png" width="60" height="60" alt="Microsoft Foundry">
-<img src="icons/stacks/threejs.png" width="60" height="60" alt="Three.js">
-<img src="icons/stacks/tanstack.png" width="60" height="60" alt="TanStack">
-<img src="icons/stacks/coderabbit.png" width="60" height="60" alt="CodeRabbit">
+<img src="icons/stacks/azure.png" width="60" height="60" alt="Azure"><img src="icons/stacks/msfoundry.png" width="60" height="60" alt="Microsoft Foundry"><img src="icons/stacks/threejs.png" width="60" height="60" alt="Three.js"><img src="icons/stacks/tanstack.png" width="60" height="60" alt="TanStack"><img src="icons/stacks/coderabbit.png" width="60" height="60" alt="CodeRabbit">
 
 ---
 
 #### 🤖 AI Models – Planning, Assistant & Testing:
 
-<img src="icons/stacks/copilotgithub.png" width="60" height="60" alt="GitHub Copilot">
-<img src="icons/stacks/copilotms.png" width="60" height="60" alt="Microsoft Copilot">
-<img src="icons/stacks/claude.png" width="60" height="60" alt="Claude">
-<img src="icons/stacks/gemini.png" width="60" height="60" alt="Gemini">
-<img src="icons/stacks/ollama.png" width="60" height="60" alt="Ollama">
+<img src="icons/stacks/copilotgithub.png" width="60" height="60" alt="GitHub Copilot"><img src="icons/stacks/copilotms.png" width="60" height="60" alt="Microsoft Copilot"><img src="icons/stacks/claude.png" width="60" height="60" alt="Claude"><img src="icons/stacks/gemini.png" width="60" height="60" alt="Gemini"><img src="icons/stacks/ollama.png" width="60" height="60" alt="Ollama">
 
 ---
 
 ## 🧩 Frontend:
 
-<img src="icons/stacks/angular.png" width="60" height="60" alt="Angular">
-<img src="icons/stacks/react.png" width="60" height="60" alt="React">
-<img src="icons/stacks/vuejs.png" width="60" height="60" alt="Vue.js">
-<img src="icons/stacks/nextjs2.png" width="60" height="60" alt="Next.js">
-<img src="icons/stacks/typescript.png" width="60" height="60" alt="TypeScript">
-<img src="icons/stacks/js.png" width="60" height="60" alt="JavaScript">
-<img src="icons/stacks/html5.png" width="60" height="60" alt="HTML5">
-<img src="icons/stacks/css3.png" width="60" height="60" alt="CSS3">
-<img src="icons/stacks/sass.png" width="60" height="60" alt="SASS">
-<img src="icons/stacks/tailwindcss.png" width="60" height="60" alt="Tailwind CSS">
-<img src="icons/stacks/bootstrap5.png" width="60" height="60" alt="Bootstrap">
-<img src="icons/stacks/vitejs.png" width="60" height="60" alt="Vite">
-<img src="icons/stacks/gsap.png" width="60" height="60" alt="GSAP">
-<img src="icons/stacks/tanstack.png" width="60" height="60" alt="TanStack">
-<img src="icons/stacks/threejs.png" width="60" height="60" alt="Three.js">
+<img src="icons/stacks/angular.png" width="60" height="60" alt="Angular"><img src="icons/stacks/react.png" width="60" height="60" alt="React"><img src="icons/stacks/vuejs.png" width="60" height="60" alt="Vue.js"><img src="icons/stacks/nextjs2.png" width="60" height="60" alt="Next.js"><img src="icons/stacks/typescript.png" width="60" height="60" alt="TypeScript"><img src="icons/stacks/js.png" width="60" height="60" alt="JavaScript"><img src="icons/stacks/html5.png" width="60" height="60" alt="HTML5"><img src="icons/stacks/css3.png" width="60" height="60" alt="CSS3"><img src="icons/stacks/sass.png" width="60" height="60" alt="SASS"><img src="icons/stacks/tailwindcss.png" width="60" height="60" alt="Tailwind CSS"><img src="icons/stacks/bootstrap5.png" width="60" height="60" alt="Bootstrap"><img src="icons/stacks/vitejs.png" width="60" height="60" alt="Vite"><img src="icons/stacks/gsap.png" width="60" height="60" alt="GSAP"><img src="icons/stacks/tanstack.png" width="60" height="60" alt="TanStack"><img src="icons/stacks/threejs.png" width="60" height="60" alt="Three.js">
 
 ---
 
 ## 🛠️ Backend & Data:
 
-<img src="icons/stacks/python.png" width="60" height="60" alt="Python">
-<img src="icons/stacks/django.png" width="60" height="60" alt="Django">
-<img src="icons/stacks/flask.png" width="60" height="60" alt="Flask">
-<img src="icons/stacks/nodejs.png" width="60" height="60" alt="Node.js">
-<img src="icons/stacks/firebase.png" width="60" height="60" alt="Firebase">
-<img src="icons/stacks/pandas.png" width="60" height="60" alt="Pandas">
-<img src="icons/stacks/pytest.png" width="60" height="60" alt="Pytest">
-<img src="icons/stacks/postman.png" width="60" height="60" alt="Postman">
-<img src="icons/stacks/docker.png" width="60" height="60" alt="Docker">
-<img src="icons/stacks/yaml.png" width="60" height="60" alt="YAML">
+<img src="icons/stacks/python.png" width="60" height="60" alt="Python"><img src="icons/stacks/django.png" width="60" height="60" alt="Django"><img src="icons/stacks/flask.png" width="60" height="60" alt="Flask"><img src="icons/stacks/nodejs.png" width="60" height="60" alt="Node.js"><img src="icons/stacks/firebase.png" width="60" height="60" alt="Firebase"><img src="icons/stacks/pandas.png" width="60" height="60" alt="Pandas"><img src="icons/stacks/pytest.png" width="60" height="60" alt="Pytest"><img src="icons/stacks/postman.png" width="60" height="60" alt="Postman"><img src="icons/stacks/docker.png" width="60" height="60" alt="Docker"><img src="icons/stacks/yaml.png" width="60" height="60" alt="YAML">
 
 ---
 
 ## 🔧 Dev Tools & Workflow:
 
-<img src="icons/stacks/git.png" width="60" height="60" alt="Git">
-<img src="icons/stacks/github.png" width="60" height="60" alt="GitHub">
-<img src="icons/stacks/gitlab.png" width="60" height="60" alt="GitLab">
-<img src="icons/stacks/vscode.png" width="60" height="60" alt="VS Code">
-<img src="icons/stacks/webstorm.png" width="60" height="60" alt="WebStorm">
-<img src="icons/stacks/pycharm.png" width="60" height="60" alt="PyCharm">
-<img src="icons/stacks/npm2.png" width="60" height="60" alt="NPM">
-<img src="icons/stacks/coderabbit.png" width="60" height="60" alt="CodeRabbit">
-<img src="icons/stacks/miro.png" width="60" height="60" alt="Miro">
-<img src="icons/stacks/antigravity.png" width="60" height="60" alt="Antigravity">
+<img src="icons/stacks/git.png" width="60" height="60" alt="Git"><img src="icons/stacks/github.png" width="60" height="60" alt="GitHub"><img src="icons/stacks/gitlab.png" width="60" height="60" alt="GitLab"><img src="icons/stacks/vscode.png" width="60" height="60" alt="VS Code"><img src="icons/stacks/webstorm.png" width="60" height="60" alt="WebStorm"><img src="icons/stacks/pycharm.png" width="60" height="60" alt="PyCharm"><img src="icons/stacks/npm2.png" width="60" height="60" alt="NPM"><img src="icons/stacks/coderabbit.png" width="60" height="60" alt="CodeRabbit"><img src="icons/stacks/miro.png" width="60" height="60" alt="Miro"><img src="icons/stacks/antigravity.png" width="60" height="60" alt="Antigravity">
 
 ---
 
 ## 🎨 Creative Design Tools:
 
-<img src="icons/stacks/affinity.png" width="60" height="60" alt="Affinity">
-<img src="icons/stacks/canva.png" width="60" height="60" alt="Canva">
-<img src="icons/procreate.png" width="60" height="60" alt="Procreate">
-<img src="icons/photoshop.png" width="60" height="60" alt="Photoshop">
-<img src="icons/gimp.png" width="60" height="60" alt="Gimp">
-<img src="icons/figma.png" width="60" height="60" alt="Figma">
+<img src="icons/stacks/affinity.png" width="60" height="60" alt="Affinity"><img src="icons/stacks/canva.png" width="60" height="60" alt="Canva"><img src="icons/procreate.png" width="60" height="60" alt="Procreate"><img src="icons/photoshop.png" width="60" height="60" alt="Photoshop"><img src="icons/gimp.png" width="60" height="60" alt="Gimp"><img src="icons/figma.png" width="60" height="60" alt="Figma">
 
 ---
 
